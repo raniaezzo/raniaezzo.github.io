@@ -9,7 +9,10 @@
 # arxiv_id: # your arXiv author ID
 # blogger_url: # your blogger URL
 # bluesky_url: # your bluesky URL
-cv_pdf: /assets/pdf/Rania_Ezzo_CV.pdf # path to your CV PDF file
+cv_pdf: <a href="https://github.com/raniaezzo/CV/releases/latest/download/Rania_Ezzo_CV.pdf"
+        target="_blank" rel="noopener">
+        CV (PDF)
+        </a>  # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: ezzo.rania@gmail.com # your email address
