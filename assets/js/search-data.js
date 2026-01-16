@@ -378,7 +378,7 @@ ninja.data = [{
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
             },},{id: "news-our-paper-functional-localization-of-visual-motion-area-fst-in-humans-is-published-in-imaging-neuroscience",
-          title: 'Our paper “Functional localization of visual motion area FST in humans” is published...',
+          title: 'Our paper Functional localization of visual motion area FST in humans is published...',
           description: "",
           section: "News",},{id: "news-i-gave-a-talk-about-our-ongoing-work-about-fmri-asymmetries-of-motion-directions-in-v1-at-the-asia-pacific-conference-of-vision-apcv",
           title: 'I gave a talk about our ongoing work about fMRI asymmetries of motion...',
