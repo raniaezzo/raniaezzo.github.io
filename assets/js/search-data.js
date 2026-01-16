@@ -439,7 +439,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/Rania_Ezzo_CV.pdf", "_blank");
+          window.open("https://github.com/raniaezzo/CV/releases/latest/download/Rania_Ezzo_CV.pdf", "_blank");
         },
       },{
         id: 'social-email',
