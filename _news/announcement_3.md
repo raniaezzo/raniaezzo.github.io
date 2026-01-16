@@ -6,7 +6,7 @@ inline: true         # change to false if a long post and uncomment below
 related_posts: false
 ---
 
-Our paper <a href="Functional localization of visual motion area FST in humans">"Functional localization of visual motion area FST in humans"</a> is published in Imaging Neuroscience
+Our paper <a href="https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00578/128935">Functional localization of visual motion area FST in humans</a> is published in <em>Imaging Neuroscience</em>.
 
 <!-- ---
 
